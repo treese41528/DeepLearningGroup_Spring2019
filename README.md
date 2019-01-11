@@ -5,7 +5,8 @@
 <H2>Order of Paper Presentations</H2>
 <table style="width:100%">
   <tr>
-    <th>Name</th>
+    <th>Presenter Name</th>
+    <th>Article Name</th>
     <th>Topic</th>
     <th>Link</th>
     <th>Day</th>
