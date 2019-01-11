@@ -43,11 +43,6 @@
     <tr>
       <td>Yang</td>
       <td>Friday-9:30am-11:30am</td>
-  </tr>
-      <tr>
-      <td>Bing</td>
-      <td></td>
-  </tr>
 </table>
 
 
