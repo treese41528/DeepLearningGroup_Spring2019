@@ -13,22 +13,6 @@ Paper Discussion
 
    <tr>
     <td></td>
-    <td>O</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-     <tr>
-    <td>/td>
-    <td></td>
-  </tr>
-      <tr>
-    <td></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td></td>
     <td></td>
   </tr>
 </table>
