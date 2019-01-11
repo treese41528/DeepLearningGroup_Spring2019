@@ -1,5 +1,5 @@
 # DeepLearningGroup_Spring2019
-<H2>All papers which we will read and discuss during the meetings will be posted here.</H2>
+<H2>Paper Discussion</H2>
 
 
 <H2>Order of Paper Presentations</H2>
