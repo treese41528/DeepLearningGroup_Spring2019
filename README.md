@@ -6,10 +6,14 @@
 <table style="width:100%">
   <tr>
     <th>Name</th>
+    <th>Topic</th>
+    <th>Link</th>
     <th>Day</th>
   </tr>
 
-   <tr>
+  <tr>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
