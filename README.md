@@ -25,23 +25,23 @@
 <table style="width:100%">
   <tr>
      <th>Names</th>
-     <th>Day/Time</th>
+     <th>Day-Time</th>
   </tr>
   <tr>
       <td>Zhaoxin</td>
-      <td></td>
+      <td>Friday-2:30pm-3:30pm</td>
   </tr>
      <tr>
       <td>Wenbin </td>
-      <td></td>
+      <td>Friday-3:30pm-4:30pm</td>
     </tr>
     <tr>
       <td>Tim </td>
-      <td></td>
+      <td>Thursday-10:30am-11:30am</td>
     </tr>
     <tr>
-      <td>Yang Yang</td>
-      <td></td>
+      <td>Yang</td>
+      <td>Friday-9:30am-11:30am</td>
   </tr>
       <tr>
       <td>Bing</td>
