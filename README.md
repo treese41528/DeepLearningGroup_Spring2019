@@ -1,7 +1,7 @@
 # DeepLearningGroup_Spring2019
 <H2>Paper Discussion Topics</H2>
  <ul>
-    <li>Deep learning theory/li>
+    <li>Deep learning theory</li>
     <li>Generative models and GAN</li>
     <li>Deep reinforcement learning</li>
     <li>NLP</li>
