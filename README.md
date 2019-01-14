@@ -1,13 +1,12 @@
 # DeepLearningGroup_Spring2019
 <H2>Paper Discussion Topics</H2>
-<table style="width:100%">
-  <tr>
-    <th>Deep learning theory/th>
-    <th>Generative models and GAN</th>
-    <th>Deep reinforcement learning</th>
-    <th>NLP</th>
-  </tr>
-</table>
+ <ul>
+    <li>Deep learning theory/li>
+    <li>Generative models and GAN</li>
+    <li>Deep reinforcement learning</li>
+    <li>NLP</li>
+  </ul>
+
 
 
 
