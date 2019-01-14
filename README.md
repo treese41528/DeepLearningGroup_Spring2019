@@ -7,7 +7,7 @@
     <li>NLP</li>
   </ul>
   
-  <bf>Selected first 5 papers</bf>
+  <H3>Selected first 5 papers</H3>
 1. Kenji Kawaguchi: Deep Learning without poor local minima
 2. Zhu, Li, Song: A Convergence theory for deep learning via over-parametrization 
 3. Du, Lee, Li et al.: Gradient Decent finds global minima of deep neural networks
