@@ -7,12 +7,15 @@
     <li>NLP</li>
   </ul>
   
+ 
   <H3>Selected first 5 papers</H3>
-1. Kenji Kawaguchi: Deep Learning without poor local minima
-2. Zhu, Li, Song: A Convergence theory for deep learning via over-parametrization 
-3. Du, Lee, Li et al.: Gradient Decent finds global minima of deep neural networks
-4. Hao Shen: Towards a Mathematical Understanding of the Difficulty in Learning with Feedforward Neural Networks
-5. Hao Shen: A Differential Topological View of Challenges in Learning with Feedforward Neural Networks
+   <ol>
+    <li>Kenji Kawaguchi: Deep Learning without poor local minima</li>
+    <li>Zhu, Li, Song: A Convergence theory for deep learning via over-parametrization </li>
+    <li> Du, Lee, Li et al.: Gradient Decent finds global minima of deep neural networks</li>
+    <li>Hao Shen: Towards a Mathematical Understanding of the Difficulty in Learning with Feedforward Neural Networks</li>
+ <li>Hao Shen: A Differential Topological View of Challenges in Learning with Feedforward Neural Networks</li>
+  </ol>
 
 
 <H2>Order of Paper Presentations</H2>
