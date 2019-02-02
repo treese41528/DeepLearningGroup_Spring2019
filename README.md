@@ -19,8 +19,8 @@
   
   <H3>Generative Modeling/GAN Papers</H3>
    <ol>
-    <li>Diederik P. Kingma, Prafulla Dhariwal:Glow: Generative Flow with Invertible 1x1 Convolutions <a href = "https://arxiv.org/abs/1807.03039"> GLOW </a>/li>
-    <li> </li>
+    <li>Diederik P. Kingma, Prafulla Dhariwal: Glow: Generative Flow with Invertible 1x1 Convolutions <a href = "https://arxiv.org/abs/1807.03039"> GLOW </a></li>
+    <li>Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio: Density estimation using Real NVP <a href = "https://arxiv.org/abs/1605.08803"> REAL NVP</a></li>
     <li></li>
     <li></li>
  <li></li>
