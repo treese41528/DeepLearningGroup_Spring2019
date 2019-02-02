@@ -22,8 +22,7 @@
     <li>Diederik P. Kingma, Prafulla Dhariwal: Glow: Generative Flow with Invertible 1x1 Convolutions <a href = "https://arxiv.org/abs/1807.03039"> GLOW </a></li>
     <li>Laurent Dinh, Jascha Sohl-Dickstein, Samy Bengio: Density estimation using Real NVP <a href = "https://arxiv.org/abs/1605.08803"> REAL NVP</a></li>
     <li>Zhengping Che, Sanjay Purushotham, Guangyu Li, Bo Jiang, Yan Liu: Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series <a href = "http://proceedings.mlr.press/v80/che18a.html"> Multi-Rate MTS</a></li>
-    <li></li>
- <li></li>
+    <li>Yujia Li, Oriol Vinyals, Chris Dyer, Razvan Pascanu, Peter Battaglia: Learning Deep Generative Models of Graphs<a href = "https://arxiv.org/abs/1803.03324</a></li>
   </ol>
 
 <H2>Order of Paper Presentations</H2>
