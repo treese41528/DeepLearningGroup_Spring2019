@@ -16,7 +16,15 @@
     <li>Hao Shen: Towards a Mathematical Understanding of the Difficulty in Learning with Feedforward Neural Networks</li>
  <li>Hao Shen: A Differential Topological View of Challenges in Learning with Feedforward Neural Networks</li>
   </ol>
-
+  
+  <H3>Generative Modeling/GAN Papers</H3>
+   <ol>
+    <li>Diederik P. Kingma, Prafulla Dhariwal:Glow: Generative Flow with Invertible 1x1 Convolutions <a href = "https://arxiv.org/abs/1807.03039"> GLOW </a>/li>
+    <li> </li>
+    <li></li>
+    <li></li>
+ <li></li>
+  </ol>
 
 <H2>Order of Paper Presentations</H2>
 <table style="width:100%">
